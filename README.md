@@ -30,8 +30,9 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://im5.ezgif.com/tmp/ezgif-5-f98842dcc9.gif
-## User Stories
+<img src="https://imgur.com/a/J5NdN5w##", width=250 />
+
+User Stories
 
 Time spent: 8 hours spent in total
 The following **required** functionality is completed:
